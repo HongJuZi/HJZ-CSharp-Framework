@@ -9,7 +9,7 @@ using System.Resources;
 [assembly: AssemblyTitle("红橘子框架C#版本")]
 [assembly: AssemblyDescription("红橘子框架至力于打造：高效-简洁-易扩展的开发框架。")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("怀化学院软件创新工作室")]
+[assembly: AssemblyCompany("红橘子信息科技工作室")]
 [assembly: AssemblyProduct("红橘子框架C#版本")]
 [assembly: AssemblyCopyright("版权所有 (C)  2013")]
 [assembly: AssemblyTrademark("红橘子")]

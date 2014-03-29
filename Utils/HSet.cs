@@ -2,7 +2,7 @@
 /// FileName: HHSet.cs 集合工具类
 /// CLRVersion: 2.0.50727.3643
 /// Author: xjiujiu <xjiujiu@foxmail.com>
-/// Corporation: 怀化学院软件创新工作室
+/// Corporation: 红橘子信息科技工作室
 /// Description: CSharp 开发框架
 /// DateTime: 2012-11-16 21:44:06
 /// </summary>
